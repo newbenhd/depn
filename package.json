@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/newbenhd/depn/issues"
   },
-  "homepage": "https://github.com/newbenhd/depn#readme"
+  "homepage": "https://github.com/newbenhd/depn#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  },
+  "bin": {
+    "depn": "bin/depn.js"
+  }
 }
