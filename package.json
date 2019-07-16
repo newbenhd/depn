@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha index.test.js",
+    "test:module": "mocha ./utils/__test__",
     "prepublish": "npm run test"
   },
   "repository": {
