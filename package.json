@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/newbenhd/depn#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "yargs": "^13.2.4"
   },
